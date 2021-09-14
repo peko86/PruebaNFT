@@ -1,1 +1,7 @@
-{"name":"letras#0","description":"letras griegas","image":"https://raw.githubusercontent.com/peko86/PruebaNFT/main/0.png","attributes":[{"trait_type":"fondo","value":"rojo"},{"trait_type":"l1","value":"f"},{"trait_type":"l2","value":"w"}]}
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": https://raw.githubusercontent.com/peko86/PruebaNFT/main/0.png", 
+  "name": "Dave Starbelly",
+  "attributes": [ {"trait_type":"fondo","value":"rojo"},{"trait_type":"l1","value":"f"},{"trait_type":"l2","value":"w"} ], 
+}
